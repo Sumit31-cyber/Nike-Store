@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "151334599877",
+    "project_id": "dealuxe-e-commerce-app",
+    "storage_bucket": "dealuxe-e-commerce-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151334599877:android:b5a06dfc870a51fc31c4ac",
+        "android_client_info": {
+          "package_name": "com.example.dealuxe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151334599877-ap13c7mtdoarop89b1s5mfqet1e6i0h5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dealuxe",
+            "certificate_hash": "ebbe5ff35758732eda7e9fa230cc57c235fde720"
+          }
+        },
+        {
+          "client_id": "151334599877-bh9ha8toadvlptfi9l5afueo95n65dof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzbXdiUO8eBxtwajLBC-AXh94IMOB5hEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151334599877-bh9ha8toadvlptfi9l5afueo95n65dof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
